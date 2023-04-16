@@ -11,7 +11,7 @@
   background: linear-gradient(
     45deg,
     transparent,
-   rgba(248, 244, 40, 0.903),
+   rgba(21,119,236,1) ,
     transparent
   );
   display: grid;
@@ -34,7 +34,7 @@
 }
 
 .about__card{
-    background: var(--color-bg-variant);
+    background: rgba(21,119,236,1);
     border: 1px solid transparent;
     border-radius: 1rem;
     padding: 2rem;
