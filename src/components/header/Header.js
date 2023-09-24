@@ -17,7 +17,7 @@ const Header = () => {
         <h1 className="roles">
           <Typical
             loop={Infinity}
-            steps={["Hi I'm Bishwas Shrestha",1000, "Web Developer", 1000, "Front-End", 1000, "Back-End", 1000]}
+            steps={["Hi I'm Bishwas Shrestha",1000, "Web Designer", 1000, "Web Developer", 1000, "Front-End", 1000, "Back-End", 1000]}
           />
         </h1>
 

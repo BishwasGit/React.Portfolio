@@ -17,8 +17,8 @@ AOS.init();
 const About = () => {
   return (
     <section id="about">
-      <h5>MY EXPERIENCE</h5>
-      <h2>Programming Languages</h2>
+      <h5>FAMILIAR WITH</h5>
+      <h2>Following Languages</h2>
 
       <div className="container about__container" data-aos="fade-right" data-aos-delay="100" data-aos-offset="200" data-aos-duration="1000">
       
@@ -33,15 +33,12 @@ const About = () => {
         <div className="about__cards" data-aos="fade-left" data-aos-delay="100" data-aos-offset="200" data-aos-duration="1000">
           <article className='about__card'>
               <AiOutlineHtml5  className='about__icons'/><DiCss3 className='about__icons'/><FaBootstrap className='about__icons'/><SiMaterialui className='about__icons'/>
-              <h5>HTML, CSS, Bootstrap, REACRJS, Material UI, JQuery</h5>
-              <small>Faimliar with these Font-End tools</small>
+              <h5>HTML, CSS, Bootstrap, REACT-JS, Material UI, JQuery</h5>
           </article>
           <article className='about__card'>
               <DiPhp  className='about__icons'/><FaLaravel className='about__icons'/><SiExpress className='about__icons'/><SiMysql className='about__icons'/>
               <h5>PHP, Laravel, Express, MYSQL, Ajax</h5>
-              <small>As well as these Back-End tools</small>
           </article>
-          <a href='#contact' className='btn'>Let's Talk</a><br />
         </div>
       </div> 
 
