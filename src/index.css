@@ -114,3 +114,19 @@ img {
     width : 100%;
     object-fit: cover;
 }
+
+.snackbar-container {
+    width: 400px; /* Adjust the width as needed */
+    animation: fadeInUp 0.5s ease-out; /* Add your animation */
+  }
+  
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }

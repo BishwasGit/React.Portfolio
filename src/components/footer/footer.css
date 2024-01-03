@@ -1,0 +1,79 @@
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Center vertically */
+    margin: 20px; /* Adjust the margin as needed */
+    padding: 15px;
+  }  
+  .footer-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer-caption {
+    margin-top: 16px;
+    text-align: center;
+  }
+  
+  /* Add this style to align the button to the right */
+  .form-submit-button {
+    margin-left: auto;
+    float : right;
+  }
+  
+  .footer-socials {
+    display: flex;
+    gap: 8px; /* Adjust the space between links */
+    margin-top: 16px;
+  }
+
+  .footer-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Styles for the "Contact Me" heading */
+  .footer-column h6 {
+    font-size: 3rem; /* Adjust the font size as needed */
+    font-weight: bold;
+    text-align: left;
+    margin-top :17%;
+  }
+  
+  /* Styles for the social media icons */
+  .footer-socials a {
+    font-size: 24px; /* Adjust the icon size as needed */
+    margin-right: 16px; /* Adjust the margin between icons as needed */
+    margin-top: 20px;
+  }
+  .footer-caption {
+    margin-top: 16px;
+    text-align: center;
+  }
+
+  .footer-form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+  }
+  
+  .footer-form .MuiTextField-root {
+    margin-bottom: 16px;
+  }
+  
+  .form-submit-button {
+    align-self: flex-end;
+  }
+  
+  /* Add styles for the form container */
+  .footer-form-container {
+    padding: 24px;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  .footer-form-container h6{
+    margin-top: 10px;
+   margin-bottom: 20px;
+   font-weight: 200;
+  }

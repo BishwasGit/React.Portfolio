@@ -13,7 +13,6 @@ const Header = () => {
         <h5 className="text-light">BCA Student at Kathmandu Bernhardt College</h5>
         <CTA />
         <HeaderSocials/>
-
         <h1 className="roles">
           <Typical
             loop={Infinity}
