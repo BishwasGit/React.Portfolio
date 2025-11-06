@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14637b66.css",
+    "main.js": "/static/js/main.b7cd95bb.js",
+    "static/media/2.jpg": "/static/media/2.72f9d7a871de53ae2bfd.jpg",
+    "static/media/1.jpg": "/static/media/1.f5a187bb78277177e9f1.jpg",
+    "static/media/GothamLight.ttf": "/static/media/GothamLight.03e7ff609ba3bf798fa4.ttf",
+    "static/media/GothamMedium.ttf": "/static/media/GothamMedium.0a910c0b9d50be6aa3dc.ttf",
+    "static/media/spotify.png": "/static/media/spotify.78437a1b9d17a9dccb90.png",
+    "index.html": "/index.html",
+    "main.14637b66.css.map": "/static/css/main.14637b66.css.map",
+    "main.b7cd95bb.js.map": "/static/js/main.b7cd95bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14637b66.css",
+    "static/js/main.b7cd95bb.js"
+  ]
+}
