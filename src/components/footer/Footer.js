@@ -7,7 +7,7 @@ import {
   Typography,
   Card,
   CardContent,
-} from "@material-ui/core";
+} from "@mui/material";
 import { FaGithub, FaFacebook, FaGoogle, FaDiscord } from "react-icons/fa";
 import { BsLinkedin } from "react-icons/bs";
 import Snackbar from 'awesome-snackbar'

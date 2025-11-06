@@ -10,7 +10,7 @@ import { SiExpress } from "react-icons/si";
 import { SiMysql } from "react-icons/si";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { LinearProgress, Grid } from "@material-ui/core";
+import { LinearProgress, Grid } from "@mui/material";
 import { FaLinux } from "react-icons/fa"; // Import Linux icon
 import { FaReact } from "react-icons/fa"; // Import React icon
 import { SiMongodb } from "react-icons/si"; // Import MongoDB icon
